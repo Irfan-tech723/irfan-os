@@ -33,14 +33,4 @@ Designed as a futuristic private R&D operating system rather than a traditional 
 
 ## 🚀 Live Demo
 
-Coming Soon
-
-## 📸 Preview
-
-(Add screenshots or GIF here)
-
-## Installation
-
-```bash
-npm install
-npm run dev
+(https://irfanos.vercel.app/)
