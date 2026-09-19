@@ -6,7 +6,7 @@ export default function Contact() {
     <RevealSection id="contact" className="section">
       <div className="eyebrow reveal">Secure Channel 05</div>
       <h2 className="section-title reveal">Contact</h2>
-      <p className="section-sub reveal">
+      <p className="sub reveal">
         Type <span className="text-blue">contact</span> below, or try{" "}
         <span className="text-blue">help</span>.
       </p>
@@ -17,11 +17,6 @@ export default function Contact() {
           placeholder="type a command..."
         />
       </div>
-      <p className="reveal mt-4 text-titanium text-[11.5px] font-mono">
-        Note — email, phone, and LinkedIn shown here are placeholders. Swap
-        them for your real details in <code>lib/commands.ts</code> before
-        publishing.
-      </p>
     </RevealSection>
   );
 }
